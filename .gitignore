@@ -1,0 +1,12 @@
+
+# Node & React
+node_modules/
+npm-debug.log
+.env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
